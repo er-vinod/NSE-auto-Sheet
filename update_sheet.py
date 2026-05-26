@@ -192,7 +192,7 @@ if data_to_insert:
 
     except Exception as e:
 
-        print(f"Google Sheet Error: {str(e)}")वेब Apps और ऑनलाइन टूल
+        print(f"Google Sheet Error: {str(e)}")
 
 else:
 
